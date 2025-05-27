@@ -42,11 +42,12 @@ An AI-powered project that recognizes the **artist and art style** from a photo 
 - 🧠 Uses CNN-based classification for artist/style recognition  
 - 🎥 Real-time webcam/video feed style transformation using deep learning  
 - 🖼️ Emulates famous art styles on user input images and video in real-time  
-### 🔸 Finance Tracker for Gold Bonds  
-A personal finance dashboard to manage and analyze gold bond investments.  
-- 📈 Real-time profit/loss calculations and graphical summaries  
-- 🧾 Secure transaction logging and smart report generation  
-- 📊 Helps users track bond maturity and return cycles
+### 💰 Finance Tracker – Investment Analysis & Recommendation System  
+A smart finance dashboard that helps users make informed investment decisions.  
+- 📊 Analyzes multiple investment options including gold bonds, stocks, and funds  
+- 📉 Predicts whether prices are expected to rise or drop using AI models  
+- 💡 Suggests better-performing alternatives based on current trends and risk profile  
+- 📈 Visualizes growth, returns, and investment health in intuitive graphs  
 
 ---
 
