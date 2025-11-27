@@ -66,4 +66,3 @@ A smart finance dashboard that helps users make informed investment decisions.
 
 ---
 
-> 🌟 *"Code is not just logic — it's creativity, empathy, and purpose in motion."*
