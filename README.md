@@ -25,13 +25,11 @@ HTML, CSS, JavaScript
 Flask, Django, REST APIs
 
 **AI/ML:**  
-TensorFlow, Keras, NumPy, Pandas, OpenCV, NLP 
+TensorFlow, PyTorch 
 
 **Databases:**  
-MySQL, SQLite
+MySQL, SQLite , MongoDB
 
-**Tools:**  
-Git, Jupyter, Google Colab, Figma, Canva
 
 ---
 
