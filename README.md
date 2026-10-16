@@ -124,8 +124,8 @@ A microservices-based educational marketplace designed to make academic resource
 
 | Qualification | Institution | 
 |---|---|---|
-| B.Tech Computer Engineering | Sardar Patel Institute of Technology, Mumbai 
-| Minor in Banking Technology | Barclays 
+| B.Tech Computer Engineering | Sardar Patel Institute of Technology, Mumbai |
+| Minor in Banking Technology | Barclays |
 | AI & ML Program | IIT Ropar |
 
 ---
