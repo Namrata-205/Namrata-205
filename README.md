@@ -156,13 +156,6 @@ current_focus = {
 ---
 
 
-## 📂 More About My Work
-
-<details>
-<summary><b>🔍 Areas I'm Interested In</b></summary>
-
-<br>
-
 | Area | Interests |
 |---|---|
 | Artificial Intelligence | LLMs, RAG, AI Agents |
