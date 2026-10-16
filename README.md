@@ -1,62 +1,193 @@
+
 <div align="center">
 
-Hi, I'm Namrata Dalvi 👋
-AI/ML Engineer in the Making | Software Developer | Computer Engineering Student
-Building intelligent systems, scalable applications, and technology that solves real problems.
-LinkedIn · Email
+# 👋 Hey, I'm Namrata Dalvi!
+
+### AI/ML Engineer | Software Developer | Computer Engineering Student
+
+*Building intelligent systems, scalable applications, and solutions that make a difference.*
+
+**[LinkedIn](https://www.linkedin.com/in/namrata-dalvi-576464230/) · [Email](mailto:namratadalvi642@gmail.com)**
+
 </div>
 
-👩‍💻 About Me
-I'm a Computer Engineering student at Sardar Patel Institute of Technology, Mumbai, passionate about AI/ML, generative AI, and full-stack engineering. I enjoy taking ideas from prototype to working product, whether that's an intelligent assistant, a collaborative developer tool, or a scalable web platform.
-- 🎓 B.Tech in Computer Engineering (2023–2027) | CGPA: 9.3
-- 🧠 Exploring LLMs, RAG, agentic AI, deep learning, and practical AI systems
-- 🛠️ Building across the stack, from model pipelines and APIs to polished user experiences
-- 🌱 Always learning, experimenting, and collaborating
-⚡ What I'm Working On
-> exploring       LLM applications • RAG • AI agents
-> engineering     Python services • APIs • full-stack products
-> learning        scalable architectures • reliable AI systems
-> interested in   education • finance • real-world impact
-🛠️ Tech Stack
-Area	Technologies
-Languages	Python, Java, C, JavaScript
-AI / ML	PyTorch, TensorFlow, OpenCV, NLP, RAG
-Frontend	React, HTML, CSS, JavaScript
-Backend	FastAPI, Flask, Node.js, REST APIs
-Databases	PostgreSQL, MySQL, MongoDB, SQLite, Redis
-DevOps & Tools	Git, GitHub, Docker, Kubernetes, Jenkins, SonarQube
+---
+
+## 👩‍💻 About Me
+
+I'm a final-year **Computer Engineering student at Sardar Patel Institute of Technology (SPIT), Mumbai**, passionate about building intelligent, scalable, and impactful software solutions.
+
+My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Generative AI, and Full-Stack Development**.
+
+- 🎓 Pursuing B.Tech in Computer Engineering | **CGPA: 9.3**
+- 💼 Experience in AI Engineering and Software Development
+- 🧠 Exploring **LLMs, RAG, AI Agents, and Model Fine-Tuning**
+- ⚡ Interested in scalable backend architectures and distributed systems
+- 🏆 Winner of national-level AI/ML and Cybersecurity case competitions
+- 🌱 Continuously learning, experimenting, and building
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+`Python` · `Java` · `C` · `C++` · `JavaScript`
+
+### 🌐 Frontend & Backend
+
+`React` · `HTML` · `CSS` · `Node.js` · `FastAPI` · `Flask` · `Django` · `REST APIs`
+
+### 🧠 AI / ML & Generative AI
+
+`PyTorch` · `TensorFlow` · `OpenCV` · `LLMs` · `RAG` · `NLP` · `Fine-Tuning`
+
+### 🗄️ Databases
+
+`PostgreSQL` · `MySQL` · `MongoDB` · `SQLite` · `Redis`
+
+### ⚙️ DevOps & Tools
+
+`Git` · `GitHub` · `Docker` · `Kubernetes` · `Jenkins` · `SonarQube`
+
+---
+
+## 🚀 Featured Projects
+
+### 💻 CodeJam — Browser-Based Code Playground
+
+**Tech Stack:** `React` `FastAPI` `PostgreSQL` `Docker` `Redis`
+
+A collaborative coding platform that allows developers to create, edit, execute, and share projects directly from their browsers.
+
+**Key Highlights:**
+- Built a browser-based code editor using Monaco Editor.
+- Implemented project creation, editing, sharing, and remixing.
+- Developed RESTful APIs for workspace and project management.
+- Designed a secure Docker execution sandbox with CPU, memory, and timeout limits.
+- Enabled full-stack workspaces without requiring local setup.
+
+### 📚 Study-SMart — Educational Marketplace
+
+**Tech Stack:** `React` `Node.js` `PostgreSQL` `Docker` `Kubernetes` `Jenkins`
+
+A microservices-based educational marketplace designed to make academic resources more accessible.
+
+**Key Highlights:**
+- Developed a platform for browsing, listing, and purchasing study materials.
+- Integrated discussion forums for student collaboration.
+- Designed and implemented a microservices architecture.
+- Built a CI/CD pipeline using Jenkins and SonarQube.
+- Containerized services with Docker and deployed using Kubernetes.
+- Implemented Horizontal Pod Autoscaling (HPA).
+
+---
+
+## 💼 Professional Experience
+
+### 🔹 Software Development Engineer Intern — CreatED
+**May 2026 – Present**
+
+- Developed a full-stack Learning Management System supporting 50+ daily active users.
+- Built an AI-powered research reasoning platform for exploring claims, supporting evidence, and opposing research papers.
+- Developed a role-based appointment booking system for students, parents, and mentors.
+
+### 🔹 AI Engineering Intern — Anix AI
+**February 2026 – April 2026**
+
+- Engineered an institutional AI chatbot using Retrieval-Augmented Generation (RAG).
+- Integrated document retrieval and SQL-based querying for structured information.
+- Built a WhatsApp automation agent using speech-to-text and AI-powered data extraction.
+- Automated the collection of 700+ alumni records.
+
+### 🔹 Computer Science Mentor
+**April 2026 – Present**
+
+- Mentored 20+ students in Web Development and Machine Learning.
+- Guided students through end-to-end project development.
+- Conducted structured technical learning sessions.
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🥇 **1st Place — StrategiTech:** National AI/ML Case Study Competition
+- 🥇 **1st Place — CaseCrux:** National Cybersecurity Case Study Competition
+- 🎯 **JPMC College to Corporate Program:** Selected among 60 students from 350 applicants
+- 🎓 **AI & ML Program — IIT Ropar**
+- 💼 **Minor in Banking Technology — Barclays**
+- 🤝 **Internship Coordinator — Institution's Innovation Cell**
+
+---
+
+## 🎓 Education
+
+| Qualification | Institution | Details |
+|---|---|---|
+| B.Tech Computer Engineering | Sardar Patel Institute of Technology, Mumbai 
+| Minor in Banking Technology | Barclays 
+| AI & ML Program | IIT Ropar | 2024–2025 |
+
+---
+
+## 🔬 What I'm Currently Exploring
+
+```python
+current_focus = {
+    "Generative AI": [
+        "Large Language Models",
+        "Retrieval-Augmented Generation",
+        "AI Agents",
+        "Model Fine-Tuning"
+    ],
+    "Software Engineering": [
+        "Scalable Backend Systems",
+        "Distributed Systems",
+        "Cloud-Native Applications"
+    ],
+    "Interests": [
+        "Applied Machine Learning",
+        "Intelligent Automation",
+        "Real-World AI Applications"
+    ]
+}
+```
+
+---
 
 
-🚀 Featured Projects
-💻 CodeJam — Browser-Based Code Playground
-React · FastAPI · PostgreSQL · Docker · Redis
-Collaborative coding platform featuring a Monaco-based editor, nested files, project sharing, and remixing. Includes a Docker-based execution sandbox with CPU, memory, filesystem, and timeout restrictions.
-📚 Study-SMart — Educational Marketplace
-React · Node.js · PostgreSQL · Kubernetes · Jenkins
-Microservices-based marketplace for study materials with community discussions. Built with a CI/CD pipeline, SonarQube quality gates, Docker, and Kubernetes autoscaling.
-💼 Experience & Highlights
-- Software Development Engineer Intern — CreatED: Developed learning, research, and appointment-booking platforms.
-- AI Engineering Intern — Anix AI: Built a retrieval-augmented institutional chatbot and an alumni data-collection automation workflow.
-- Computer Science Mentor: Guided 20+ students in web development, machine learning, and project building.
-- 🏆 1st Place: StrategiTech (AI/ML) and CaseCrux (Cybersecurity) national case-study competitions.
-- 🎯 JPMC College to Corporate: Selected among 60 students from 350 applicants.
-- 🎓 AI & ML program: IIT Ropar.
+## 📂 More About My Work
+
 <details>
-<summary><b>✨ A little more about me</b></summary>
+<summary><b>🔍 Areas I'm Interested In</b></summary>
 
-I enjoy learning by building, mentoring other students, and exploring how responsible AI can improve everyday workflows. I'm particularly interested in projects at the intersection of education, accessibility, and intelligent software.
+<br>
+
+| Area | Interests |
+|---|---|
+| Artificial Intelligence | LLMs, RAG, AI Agents |
+| Machine Learning | Deep Learning, NLP, Computer Vision |
+| Software Engineering | Full-Stack Applications, Backend Systems |
+| Infrastructure | Docker, Kubernetes, CI/CD |
+| Research | Applied AI, Model Optimization |
+
 </details>
 
-🎯 Currently Exploring
-- Generative AI, LLM evaluation, and retrieval-augmented generation
-- Agentic workflows and tool-using AI applications
-- Explainable and responsible machine learning
-- Production-ready backend systems and deployment
-🤝 Let's Connect
-I'm open to collaborating on meaningful AI/ML, open-source, and software engineering projects.
-📧 Email: namratadalvi642@gmail.com
-🔗 LinkedIn: namrata-dalvi
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in collaborating on innovative projects, exploring new ideas, and connecting with people passionate about technology.
+
+- 💼 **LinkedIn:** [namrata-dalvi](https://www.linkedin.com/in/namrata-dalvi-576464230/)
+- 📧 **Email:** [namratadalvi642@gmail.com](mailto:namratadalvi642@gmail.com)
+
+---
+
 <div align="center">
 
-Keep learning. Keep building. Keep improving. ✨
+### ✨ "Learn. Build. Experiment. Improve."
+
+*Thanks for visiting my profile!*
+
 </div>
