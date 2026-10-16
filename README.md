@@ -19,7 +19,7 @@ I'm a final-year **Computer Engineering student at Sardar Patel Institute of Tec
 
 My interests lie at the intersection of **Artificial Intelligence, Machine Learning, Generative AI, and Full-Stack Development**.
 
-- 🎓 Pursuing B.Tech in Computer Engineering | **CGPA: 9.3**
+- 🎓 Pursuing B.Tech in Computer Engineering 
 - 💼 Experience in AI Engineering and Software Development
 - 🧠 Exploring **LLMs, RAG, AI Agents, and Model Fine-Tuning**
 - ⚡ Interested in scalable backend architectures and distributed systems
@@ -85,14 +85,14 @@ A microservices-based educational marketplace designed to make academic resource
 
 ## 💼 Professional Experience
 
-### 🔹 Software Development Engineer Intern — CreatED
-**May 2026 – Present**
+### 🔹 Software Development Engineer Intern - CreatED
+**May 2026 – Aug 2026**
 
 - Developed a full-stack Learning Management System supporting 50+ daily active users.
 - Built an AI-powered research reasoning platform for exploring claims, supporting evidence, and opposing research papers.
 - Developed a role-based appointment booking system for students, parents, and mentors.
 
-### 🔹 AI Engineering Intern — Anix AI
+### 🔹 AI Engineering Intern - Anix AI
 **February 2026 – April 2026**
 
 - Engineered an institutional AI chatbot using Retrieval-Augmented Generation (RAG).
@@ -122,11 +122,11 @@ A microservices-based educational marketplace designed to make academic resource
 
 ## 🎓 Education
 
-| Qualification | Institution | Details |
+| Qualification | Institution | 
 |---|---|---|
 | B.Tech Computer Engineering | Sardar Patel Institute of Technology, Mumbai 
 | Minor in Banking Technology | Barclays 
-| AI & ML Program | IIT Ropar | 2024–2025 |
+| AI & ML Program | IIT Ropar |
 
 ---
 
