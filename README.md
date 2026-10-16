@@ -1,66 +1,62 @@
-# 👋 Hello! I'm Namrata Dalvi
+<div align="center">
 
-I’m a curious and passionate Computer Engineering student, driven by innovation in AI/ML, software development, and solving real-world problems. I enjoy building impactful applications that bridge data with intelligent solutions.
+Hi, I'm Namrata Dalvi 👋
+AI/ML Engineer in the Making | Software Developer | Computer Engineering Student
+Building intelligent systems, scalable applications, and technology that solves real problems.
+LinkedIn · Email
+</div>
 
----
-
-## 🔹 What I Do
-
-- 🧠 Build fast and efficient neural networks for experimentation and prototyping.
-- 💻 Develop full-stack Python-based applications using Flask and Django.
-- 📈 Create intelligent tools in finance, education, and personal productivity.
-- 🧬 Explore deep learning, NLP, and ethical AI principles.
-
----
-
-## 🛠 Tech Stack
-
-**Languages:**  
-Python, C, C++, Java
-
-**Frontend:**  
-HTML, CSS, JavaScript
-
-**Backend:**  
-Flask, Django, REST APIs
-
-**AI/ML:**  
-TensorFlow, PyTorch 
-
-**Databases:**  
-MySQL, SQLite , MongoDB
+👩‍💻 About Me
+I'm a Computer Engineering student at Sardar Patel Institute of Technology, Mumbai, passionate about AI/ML, generative AI, and full-stack engineering. I enjoy taking ideas from prototype to working product, whether that's an intelligent assistant, a collaborative developer tool, or a scalable web platform.
+- 🎓 B.Tech in Computer Engineering (2023–2027) | CGPA: 9.3
+- 🧠 Exploring LLMs, RAG, agentic AI, deep learning, and practical AI systems
+- 🛠️ Building across the stack, from model pipelines and APIs to polished user experiences
+- 🌱 Always learning, experimenting, and collaborating
+⚡ What I'm Working On
+> exploring       LLM applications • RAG • AI agents
+> engineering     Python services • APIs • full-stack products
+> learning        scalable architectures • reliable AI systems
+> interested in   education • finance • real-world impact
+🛠️ Tech Stack
+Area	Technologies
+Languages	Python, Java, C, JavaScript
+AI / ML	PyTorch, TensorFlow, OpenCV, NLP, RAG
+Frontend	React, HTML, CSS, JavaScript
+Backend	FastAPI, Flask, Node.js, REST APIs
+Databases	PostgreSQL, MySQL, MongoDB, SQLite, Redis
+DevOps & Tools	Git, GitHub, Docker, Kubernetes, Jenkins, SonarQube
 
 
----
+🚀 Featured Projects
+💻 CodeJam — Browser-Based Code Playground
+React · FastAPI · PostgreSQL · Docker · Redis
+Collaborative coding platform featuring a Monaco-based editor, nested files, project sharing, and remixing. Includes a Docker-based execution sandbox with CPU, memory, filesystem, and timeout restrictions.
+📚 Study-SMart — Educational Marketplace
+React · Node.js · PostgreSQL · Kubernetes · Jenkins
+Microservices-based marketplace for study materials with community discussions. Built with a CI/CD pipeline, SonarQube quality gates, Docker, and Kubernetes autoscaling.
+💼 Experience & Highlights
+- Software Development Engineer Intern — CreatED: Developed learning, research, and appointment-booking platforms.
+- AI Engineering Intern — Anix AI: Built a retrieval-augmented institutional chatbot and an alumni data-collection automation workflow.
+- Computer Science Mentor: Guided 20+ students in web development, machine learning, and project building.
+- 🏆 1st Place: StrategiTech (AI/ML) and CaseCrux (Cybersecurity) national case-study competitions.
+- 🎯 JPMC College to Corporate: Selected among 60 students from 350 applicants.
+- 🎓 AI & ML program: IIT Ropar.
+<details>
+<summary><b>✨ A little more about me</b></summary>
 
-## 🚀 Featured Projects
+I enjoy learning by building, mentoring other students, and exploring how responsible AI can improve everyday workflows. I'm particularly interested in projects at the intersection of education, accessibility, and intelligent software.
+</details>
 
-### 🎨 Art Style Recognition & Transformation  
-An AI-powered project that recognizes the **artist and art style** from a photo and **transforms real-time photos and videos** into that style.  
-- 🧠 Uses CNN-based classification for artist/style recognition  
-- 🎥 Real-time webcam/video feed style transformation using deep learning  
-- 🖼️ Emulates famous art styles on user input images and video in real-time  
-### 💰 Finance Tracker – Investment Analysis & Recommendation System  
-A smart finance dashboard that helps users make informed investment decisions.  
-- 📊 Analyzes multiple investment options including gold bonds, stocks, and funds  
-- 📉 Predicts whether prices are expected to rise or drop using AI models  
-- 💡 Suggests better-performing alternatives based on current trends and risk profile  
-- 📈 Visualizes growth, returns, and investment health in intuitive graphs  
+🎯 Currently Exploring
+- Generative AI, LLM evaluation, and retrieval-augmented generation
+- Agentic workflows and tool-using AI applications
+- Explainable and responsible machine learning
+- Production-ready backend systems and deployment
+🤝 Let's Connect
+I'm open to collaborating on meaningful AI/ML, open-source, and software engineering projects.
+📧 Email: namratadalvi642@gmail.com
+🔗 LinkedIn: namrata-dalvi
+<div align="center">
 
----
-
-## 🎯 Current Goals
-
-- 🚀 Deepen expertise in Generative AI, NLP, and explainable machine learning  
-- 🤝 Contribute to open-source projects in finance, education & accessibility  
-- 👩‍💻 Build AI-powered tools that empower individuals and communities  
-
----
-
-## 📫 Let's Connect!
-
-- LinkedIn : www.linkedin.com/in/namrata-dalvi-576464230/  
-- Email : namratadalvi642@gmail.com 
-
----
-
+Keep learning. Keep building. Keep improving. ✨
+</div>
