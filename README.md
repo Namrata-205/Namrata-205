@@ -27,6 +27,31 @@ My interests lie at the intersection of **Artificial Intelligence, Machine Learn
 - 🌱 Continuously learning, experimenting, and building
 
 ---
+## 💼 Professional Experience
+
+### 🔹 Software Development Engineer Intern - CreatED
+**May 2026 – Aug 2026**
+
+- Developed a full-stack Learning Management System supporting 50+ daily active users.
+- Built an AI-powered research reasoning platform for exploring claims, supporting evidence, and opposing research papers.
+- Developed a role-based appointment booking system for students, parents, and mentors.
+
+### 🔹 AI Engineering Intern - Anix AI
+**February 2026 – April 2026**
+
+- Engineered an institutional AI chatbot using Retrieval-Augmented Generation (RAG).
+- Integrated document retrieval and SQL-based querying for structured information.
+- Built a WhatsApp automation agent using speech-to-text and AI-powered data extraction.
+- Automated the collection of 700+ alumni records.
+
+### 🔹 Computer Science Mentor
+**April 2026 – Present**
+
+- Mentored 20+ students in Web Development and Machine Learning.
+- Guided students through end-to-end project development.
+- Conducted structured technical learning sessions.
+
+---
 
 ## 🛠️ Technical Skills
 
@@ -83,32 +108,6 @@ A microservices-based educational marketplace designed to make academic resource
 
 ---
 
-## 💼 Professional Experience
-
-### 🔹 Software Development Engineer Intern - CreatED
-**May 2026 – Aug 2026**
-
-- Developed a full-stack Learning Management System supporting 50+ daily active users.
-- Built an AI-powered research reasoning platform for exploring claims, supporting evidence, and opposing research papers.
-- Developed a role-based appointment booking system for students, parents, and mentors.
-
-### 🔹 AI Engineering Intern - Anix AI
-**February 2026 – April 2026**
-
-- Engineered an institutional AI chatbot using Retrieval-Augmented Generation (RAG).
-- Integrated document retrieval and SQL-based querying for structured information.
-- Built a WhatsApp automation agent using speech-to-text and AI-powered data extraction.
-- Automated the collection of 700+ alumni records.
-
-### 🔹 Computer Science Mentor
-**April 2026 – Present**
-
-- Mentored 20+ students in Web Development and Machine Learning.
-- Guided students through end-to-end project development.
-- Conducted structured technical learning sessions.
-
----
-
 ## 🏆 Achievements & Recognition
 
 - 🥇 **1st Place — StrategiTech:** National AI/ML Case Study Competition
@@ -120,10 +119,11 @@ A microservices-based educational marketplace designed to make academic resource
 
 ---
 
+
 ## 🎓 Education
 
-| Qualification | Institution | 
-|---|---|---|
+| Qualification | Institution |
+|---|---|
 | B.Tech Computer Engineering | Sardar Patel Institute of Technology, Mumbai |
 | Minor in Banking Technology | Barclays |
 | AI & ML Program | IIT Ropar |
